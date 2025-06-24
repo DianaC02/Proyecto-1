@@ -1,4 +1,4 @@
-Aprendizaje Supervisado 
+APRENDIZAJE SUPERVISADO
 Beta Bank – Predicción de abandono de clientes
 Propósito: Predecir clientes con riesgo de abandono para reducir la pérdida mensual de usuarios.
 Contribución clave:
@@ -7,7 +7,7 @@ Contribución clave:
 •	Alcancé F1 > 0.59 y analicé desempeño con AUC-ROC.
 Habilidades aplicadas: Python, scikit-learn, pandas, visualización de métricas, ajuste de hiperparámetros
 
-
+APRENDIZAJE AUTOMÁTICO EN NEGOCIOS 
 OilyGiant – Selección óptima de pozos petroleros
 Propósito: Identificar la región más rentable para abrir 200 nuevos pozos, minimizando riesgo y maximizando beneficio.
 Contribución clave:
@@ -16,7 +16,7 @@ Contribución clave:
 •	Apliqué bootstrapping para estimar beneficios y riesgos; elegí la región con mayor retorno y riesgo < 2.5%.
 Habilidades aplicadas: Python, regresión lineal, análisis de riesgo, NumPy, pandas, visualización de resultados, evaluación económica
 
-
+SERIES TEMPORALES
 Sweet Lift Taxi – Predicción de pedidos por hora
 Propósito: Predecir la cantidad de pedidos de taxis para la próxima hora en aeropuertos y ayudar a atraer más conductores durante las horas pico.
 Contribución clave:
